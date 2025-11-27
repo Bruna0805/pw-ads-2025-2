@@ -24,7 +24,7 @@ export default function FooterBar() {
          }
        }}
      >
-       Desenvolvido e mantido com <CoffeeIcon fontSize="small" /> por <a href="mailto:bruna.fatec102@gmail">Bruna Souza</a>
+       Desenvolvido e mantido com <CoffeeIcon fontSize="small" /> por <a href="mailto:brunaercolinop18@gmail.com">Bruna Souza</a>
      </Typography>
    </Box>
  </>
